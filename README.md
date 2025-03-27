@@ -1,4 +1,4 @@
-## Hi there 👋
+## Man i gotta put an html file here at sum point
 
 <!--
 **NoobCrewDelux/NoobCrewDelux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
