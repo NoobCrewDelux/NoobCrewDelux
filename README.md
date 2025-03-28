@@ -1,4 +1,13 @@
 <img src="kurisu.jpg">
+<table align="right" left="100">
+  <tr>
+    <td><p>Socials:</p>
+    <a href="https://discordapp.com/users/530883376048242698"><img src="https://img.shields.io/badge/Discord-0A66C2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+    <a href="https://www.instagram.com/wilson._.joe/"><img src="https://img.shields.io/badge/Instagram-0A66C2?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://www.linkedin.com/in/joseph-wilson-a665332a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=gitconnected&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:j0sephw1532@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Joseph%20Wilson,%0A%0AI%20saw%20your%20GitHub%20profile..."><img src="https://img.shields.io/badge/gmail-0A66C2?style=flat-square&logo=gmail&logoColor=white"></a></td>
+    </tr>
+  </table>
 <blockquote> "Code is like humor. Im shit at it." (please hire me 🥺)</blockquote>
 <div align="left">
   
@@ -26,14 +35,6 @@
         - 🤮 VS Studio <br>
         - 🧍‍♂️ Fatal error: Segmentation fault <br>
       </td>
-    </tr>
-  </table>
-  
-  <table><tr>
-    <td><a href="https://discordapp.com/users/530883376048242698"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a></td>
-    <td><a href="https://www.instagram.com/wilson._.joe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a></td>
-    <td><a href="https://www.linkedin.com/in/joseph-wilson-a665332a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=gitconnected&logoColor=white" alt="LinkedIn"></a></td>
-    <td><a href="mailto:j0sephw1532@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Joseph%20Wilson,%0A%0AI%20saw%20your%20GitHub%20profile..."><img src="https://img.shields.io/badge/gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a></td>
     </tr>
   </table>
 </div>
