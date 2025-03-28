@@ -1,6 +1,6 @@
 <img src="kurisu.jpg">
 <blockquote> "Code is like humor. Im shit at it." (please hire me 🥺)</blockquote>
-<div align="center">
+<div align="left">
   
   <h2 align="left"> About Me: 😄</h2>
   
@@ -40,7 +40,7 @@
 
 
 <h2>🛠️ Languages & Editors </h2>
-<div display="flex" align="center">
+<div display="flex" align="left">
   <table align="centre">
     <tr>
       <td><strong>Primary Languages:</strong></td>
