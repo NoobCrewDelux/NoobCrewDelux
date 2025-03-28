@@ -1,5 +1,5 @@
 ![KURISU🥰](kurisu.jpg)
-> "Code is like humor. Im shit at it." – me
+> "Code is like humor. Im shit at it." – me (please hire me 🥺)
 # About Me: 😄
 
 <table>
@@ -13,34 +13,47 @@
   </tr>
   <tr>
     <td>
-      - 🐍 Python <br>
+      - 😩 Python and C <br>
       - 📺 Anime <br>
       - 📸 Photography <br>
       - 💻 VS Code <br>
     </td>
     <td>
       - 🏫 COMP SCI 120 <br>
-      - 🤢 C# and PHP <br>
+      - 🤢 Microsoft Java and PHP <br>
       - 🤮 VS Studio <br>
       - 🧍‍♂️ Fatal error: Segmentation fault <br>
     </td>
   </tr>
 </table>
 
-
-
-
-
 ## 🛠️ Languages & Editor
-- **Primary Languages**:
-  
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/) [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
-- **Learning / Constantly Improving**:
+<img src="y67ybnebt94a1.png" display="float" align="right" height="150">
+<table>
+  <tr>
+    <td><strong>Primary Languages:</strong></td>
+    <td>
+      <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+      <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Learning / Improving:</strong></td>
+    <td>
+      <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
+      <a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Java"></a>
+      <a href="https://en.cppreference.com/w/cpp"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1979F6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7AF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"></a>
+    </td>
+  </tr>
+</table>
 
-  [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/) [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white)](https://docs.oracle.com/en/java/) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp) [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS-1979F6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7AF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- **Editor of Choice**: VS Code, Python IDE (For quick and dirty things)
 
-  ![VSC](vsc.png)
+Have Experience In:
+<br>
+<a href="https://code.visualstudio.com/"><img src="vsc.png" height="75"></a><a href="https://python.org/"><img src="python_IDLE.jpg" height="75"></a><a href="https://visualstudio.microsoft.com/"><img src="visual_studio.jpg" height="75"></a>
 
 ## 📈 GitHub Stats (YIKES)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoobCrewDelux&show_icons=true&theme=radical)
