@@ -1,18 +1,34 @@
-#                 I do comp sci 🥵
 ![KURISU🥰](kurisu.jpg)
 > "Code is like humor. Im shit at it." – me
-## About Me: 😄
-What I like ✅:
-- Python 🐍
-- Anime
-- Photography
-- VS CODE!
+# About Me: 😄
+<table>
+  <tr>
+    <td><h3>✅ What I Like: </h3></td>
+    <td><h3>🚩 What I Don't Like: </h3></td>
+    <td rowspan="2">
+      <img src="https://media1.tenor.com/m/MArtmCi0hlMAAAAd/computer-science-c-code.gif" width="200">
+    </td>
+    <td rowspan="3">
+      <img src="https://media1.tenor.com/m/TDJ0PSIAHREAAAAd/he-was-forced-to-use-php-php.gif" width="200">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      - 🐍 Python <br>
+      - 📺 Anime <br>
+      - 📸 Photography <br>
+      - 💻 VS Code <br>
+    </td>
+    <td>
+      - 🏫 COMP SCI 120 <br>
+      - 🤢 C# and PHP <br>
+      - 🤮 VS Studio <br>
+      - 🧍‍♂️ Fatal error: Segmentation fault<br>
+    </td> 
+  </tr>
+</table>
 
-What I don't like 🚩😠:
-- COMP SCI 101 (free gpa thoe can't complain)
-- C# and PHP 🤮
-- VS STUDIO 🤮
-- Fatal Error: Segmentation fault (core dumped)🧍‍♂️
+
 ## 🛠️ Languages & Editor
 - **Primary Languages**:
   
@@ -39,6 +55,5 @@ Every morning if C# and PHP didn't exist:
 ![](_MG_1469.JPG)
 ![](_MG_1169.JPG)
 ![](_MG_1176.JPG)
-![](_MG_1181.JPG)
 ![](_MG_1183.JPG)
 
