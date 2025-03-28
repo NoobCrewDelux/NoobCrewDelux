@@ -1,14 +1,18 @@
-<img src="kurisu.jpg">
-<table align="right" left="100">
-  <tr>
-    <td><p>Socials:</p>
-    <a href="https://discordapp.com/users/530883376048242698"><img src="https://img.shields.io/badge/Discord-0A66C2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
-    <a href="https://www.instagram.com/wilson._.joe/"><img src="https://img.shields.io/badge/Instagram-0A66C2?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://www.linkedin.com/in/joseph-wilson-a665332a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=gitconnected&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:j0sephw1532@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Joseph%20Wilson,%0A%0AI%20saw%20your%20GitHub%20profile..."><img src="https://img.shields.io/badge/gmail-0A66C2?style=flat-square&logo=gmail&logoColor=white"></a></td>
-    </tr>
-  </table>
-<blockquote> "Code is like humor. Im shit at it." (please hire me 🥺)</blockquote>
+<div max-width="850">
+  <img src="kurisu.jpg">
+  <div text-align= "right" background-color="#f5f5f5">
+    <table align="right">
+      <tr>
+        <td><p>Socials:</p>
+        <a href="https://discordapp.com/users/530883376048242698"><img src="https://img.shields.io/badge/Discord-0A66C2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+        <a href="https://www.instagram.com/wilson._.joe/"><img src="https://img.shields.io/badge/Instagram-0A66C2?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+        <a href="https://www.linkedin.com/in/joseph-wilson-a665332a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=gitconnected&logoColor=white" alt="LinkedIn"></a>
+        <a href="mailto:j0sephw1532@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Joseph%20Wilson,%0A%0AI%20saw%20your%20GitHub%20profile..."><img src="https://img.shields.io/badge/gmail-0A66C2?style=flat-square&logo=gmail&logoColor=white"></a></td>
+        </tr>
+      </table>
+    <blockquote> "Code is like humor. Im shit at it." (please hire me 🥺)</blockquote>
+  </div>
+</div>
 <div align="left">
   
   <h2 align="left"> About Me: 😄</h2>
@@ -72,10 +76,11 @@
 
 ## 📸 Photography
 Every morning if C# and PHP didn't exist:
-![](_MG_1398.JPG)
-![](_MG_1465.JPG)
-![](_MG_1469.JPG)
-![](_MG_1169.JPG)
-![](_MG_1176.JPG)
-![](_MG_1183.JPG)
+<img src="_MG_1398.JPG">
+<img src="_MG_1465.JPG">
+<img src="_MG_1469.JPG">
+<img src="_MG_1169.JPG">
+<img src="_MG_1176.JPG">
+<img src="_MG_1183.JPG">
+
 
