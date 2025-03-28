@@ -1,18 +1,14 @@
-<!DOCTYPE html>
-<div max-width="850">
-  <img src="kurisu.jpg">
-    <table align="right" valign="top">
-      <tr >
-        <td ><p>Socials:</p>
-        <a href="https://discordapp.com/users/530883376048242698"><img src="https://img.shields.io/badge/Discord-0A66C2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
-        <a href="https://www.instagram.com/wilson._.joe/"><img src="https://img.shields.io/badge/Instagram-0A66C2?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-        <a href="https://www.linkedin.com/in/joseph-wilson-a665332a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=gitconnected&logoColor=white" alt="LinkedIn"></a>
-        <a href="mailto:j0sephw1532@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Joseph%20Wilson,%0A%0AI%20saw%20your%20GitHub%20profile..."><img src="https://img.shields.io/badge/gmail-0A66C2?style=flat-square&logo=gmail&logoColor=white"></a></td>
-        </tr>
-      </table>
-    <blockquote> "Code is like humor. Im shit at it." (please hire me 🥺)</blockquote>
-</div>
-<div align="left">
+<img src="kurisu.jpg">
+<table align="right" valign="top" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td ><p>Socials:</p>
+      <a href="https://discordapp.com/users/530883376048242698"><img src="https://img.shields.io/badge/Discord-0A66C2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+      <a href="https://www.instagram.com/wilson._.joe/"><img src="https://img.shields.io/badge/Instagram-0A66C2?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+      <a href="https://www.linkedin.com/in/joseph-wilson-a665332a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=gitconnected&logoColor=white" alt="LinkedIn"></a>
+      <a href="mailto:j0sephw1532@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Joseph%20Wilson,%0A%0AI%20saw%20your%20GitHub%20profile..."><img src="https://img.shields.io/badge/gmail-0A66C2?style=flat-square&logo=gmail&logoColor=white"></a></td>
+      </tr></table>
+<blockquote> "Code is like humor. Im shit at it." (please hire me 🥺)</blockquote>
+<div align="center">
   
   <h2 align="left"> About Me: 😄</h2>
   
