@@ -1,11 +1,10 @@
-# I do comp sci 🥵🥵
+# I do comp sci 🥵
 ![poop](thumb-1920-345149.jpg)
 > "Code is like humor. Im shit at it." – me
 ## About Me: 😄
 What I like ✅:
 - Python 🐍
-- Anime 
-- ABG's
+- Anime
 - Photography
 - VS CODE!
 
