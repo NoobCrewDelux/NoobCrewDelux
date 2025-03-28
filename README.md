@@ -6,10 +6,8 @@
     <td><h3>✅ What I Like: </h3></td>
     <td><h3>🚩 What I Don't Like: </h3></td>
     <td rowspan="2">
-      <img src="https://media1.tenor.com/m/MArtmCi0hlMAAAAd/computer-science-c-code.gif" width="200">
-    </td>
-    <td rowspan="3">
-      <img src="https://media1.tenor.com/m/TDJ0PSIAHREAAAAd/he-was-forced-to-use-php-php.gif" width="200">
+      <img src="https://media1.tenor.com/m/MArtmCi0hlMAAAAd/computer-science-c-code.gif" width="150">
+      <img src="https://media1.tenor.com/m/TDJ0PSIAHREAAAAd/he-was-forced-to-use-php-php.gif" width="150">
     </td>
   </tr>
   <tr>
