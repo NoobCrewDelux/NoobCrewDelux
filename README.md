@@ -1,5 +1,5 @@
-# I do comp sci 🥵
-![poop](thumb-1920-345149.jpg)
+#                 I do comp sci 🥵
+![KURISU🥰](kurisu.jpg)
 > "Code is like humor. Im shit at it." – me
 ## About Me: 😄
 What I like ✅:
