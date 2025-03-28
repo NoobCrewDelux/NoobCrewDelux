@@ -29,19 +29,17 @@
     </tr>
   </table>
   
-  <a href="https://discordapp.com/users/530883376048242698">
-    <img src="https://img.shields.io/badge/Discord-Profile-blue?style=flat-square&logo=discord" alt="Discord">
-  </a>
-  <a href="https://www.instagram.com/wilson._.joe/">
-    <img src="https://img.shields.io/badge/Instagram-Profile-blue?style=flat-square&logo=instagram" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/joseph-wilson-a665332a4/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=pinboard" alt="LinkedIn">
-  </a> 
+  <table><tr>
+    <td><a href="https://discordapp.com/users/530883376048242698"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a></td>
+    <td><a href="https://www.instagram.com/wilson._.joe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a></td>
+    <td><a href="https://www.linkedin.com/in/joseph-wilson-a665332a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=gitconnected&logoColor=white" alt="LinkedIn"></a></td>
+    <td><a href="mailto:j0sephw1532@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Joseph%20Wilson,%0A%0AI%20saw%20your%20GitHub%20profile..."><img src="https://img.shields.io/badge/gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a></td>
+    </tr>
+  </table>
 </div>
 
 
-<h2>🛠️ Languages & Editor</h2>
+<h2>🛠️ Languages & Editors </h2>
 <div display="flex" align="center">
   <table align="centre">
     <tr>
@@ -64,10 +62,12 @@
     </tr>
   </table>
   <a href="https://code.visualstudio.com/"><img src="vsc.png" height="75"></a><a href="https://python.org/"><img src="python_IDLE.jpg" height="75"></a><a href="https://visualstudio.microsoft.com/"><img src="visual_studio.jpg" height="75"></a>
+
+
+  <h3>📈 GitHub Stats (YIKES)</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=NoobCrewDelux&show_icons=true&theme=radical">
 </div>
 
-### 📈 GitHub Stats (YIKES)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoobCrewDelux&show_icons=true&theme=radical)
 
 ## 📸 Photography
 Every morning if C# and PHP didn't exist:
