@@ -1,13 +1,14 @@
 ![KURISU🥰](kurisu.jpg)
 > "Code is like humor. Im shit at it." – me
 # About Me: 😄
+
 <table>
   <tr>
-    <td><h3>✅ What I Like: </h3></td>
-    <td><h3>🚩 What I Don't Like: </h3></td>
+    <td><h3>✅ What I Like:</h3></td>
+    <td><h3>🚩 What I Don't Like:</h3></td>
     <td rowspan="2">
-      <img src="https://media1.tenor.com/m/MArtmCi0hlMAAAAd/computer-science-c-code.gif" width="150">
-      <img src="https://media1.tenor.com/m/TDJ0PSIAHREAAAAd/he-was-forced-to-use-php-php.gif" width="150">
+      <img src="https://media1.tenor.com/m/MArtmCi0hlMAAAAd/computer-science-c-code.gif" width="190">
+      <img src="https://media1.tenor.com/m/TDJ0PSIAHREAAAAd/he-was-forced-to-use-php-php.gif" width="190">
     </td>
   </tr>
   <tr>
@@ -21,10 +22,13 @@
       - 🏫 COMP SCI 120 <br>
       - 🤢 C# and PHP <br>
       - 🤮 VS Studio <br>
-      - 🧍‍♂️ Fatal error: Segmentation fault<br>
-    </td> 
+      - 🧍‍♂️ Fatal error: Segmentation fault <br>
+    </td>
   </tr>
 </table>
+
+
+
 
 
 ## 🛠️ Languages & Editor
