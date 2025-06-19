@@ -29,9 +29,9 @@
         - 💻 VS Code <br>
       </td>
       <td>
-        - 🏫 COMP SCI 120 <br>
-        - 🤢 Microsoft Java and PHP <br>
-        - 🤮 VS Studio <br>
+        - 😵‍💫 JavaScript and PHP <br>
+        - 🌐 Paying for a static IPv4 (CGNAT)<br>
+        - 🐖 Microsoft and Adobe <br>
         - 🧍‍♂️ Fatal error: Segmentation fault <br>
       </td>
     </tr>
