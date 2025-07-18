@@ -11,13 +11,11 @@
 <div align="center">
   <h2 align="left"> 😶‍🌫️| About Me </h2>
   <table>
-    <tr>
-      <td><h3>🌌 What I like:</h3></td>
-      <td><h3>🪰 What I dislike:</h3></td>
-      <td rowspan="2">
-        <img src="https://media1.tenor.com/m/MArtmCi0hlMAAAAd/computer-science-c-code.gif" width="190">
-        <img src="https://media1.tenor.com/m/TDJ0PSIAHREAAAAd/he-was-forced-to-use-php-php.gif" width="190">
-      </td>
+    <tr align=top>
+      <td><h3>🌌 I like:</h3></td>
+      <td><h3>🪰 I dislike:</h3></td>
+      <td><h3>🛫 To go:</h3></td>
+      <td><h3>🧠 To do:</h3></td>
     </tr>
     <tr>
       <td align=left>
@@ -30,11 +28,27 @@
       </td>
       <td align=left>
         - 😵‍💫 PHP <br>
-        - 🌐 Paying for a static IPv4 IP (CGNAT)<br>
+        - 🌐 Internet Monetisation<br>
         - 🐖 Microsoft and Adobe <br>
         - 🫰 Subscription Services <br>
-        - 🤖 Copoerate AI spam <br>
-        - 🧍‍♂️ Fatal error: Segmentation fault <br>
+        - 🤖 Corporate AI spam <br>
+        - 🧍‍♂️ Politics <br>
+      </td>
+      <td align=left>
+        - 🍣 Japan <br>
+        - 🍜 China <br>
+        - 🍱 Korea <br>
+        - 🍝 Italy <br>
+        - 🗽 New York <br>
+        - 🍚 Phillipines <br>
+      </td>
+      <td align=left>
+        - 🎓 Bsc Comp Sci <br>
+        - 🗣️ DipLang Jap <br>
+        - ☄️ MS Comp Eng <br>
+        - 🌌 Explore <br>
+        - 🛠️ Make Things <br>
+        - 👨‍💻 <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" width="100" height="14" alt="NVIDIA logo" /><br>
       </td>
     </tr>
   </table>
@@ -59,5 +73,4 @@
       </td>
     </tr>
   </table>
-  <a href="https://code.visualstudio.com/"><img src="vsc.png" height="75"></a><a href="https://python.org/"><img src="python_IDLE.jpg" height="75"></a><a href="https://visualstudio.microsoft.com/"><img src="visual_studio.jpg" height="75"></a>
 </div>
