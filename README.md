@@ -44,10 +44,9 @@
       <td align=left>
         - 🎓 Bsc Comp Sci <br>
         - 🗣️ DipLang Jap <br>
-        - ☄️ MS Comp Eng <br>
         - 🌌 Explore <br>
         - 🛠️ Make Things <br>
-        - 👨‍💻 <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" width="100" height="14" alt="NVIDIA logo" /><br>
+        - 👨‍💻 <img src="https://img.shields.io/badge/Atlassian-0052CC?style=flat-square&logo=atlassian&logoColor=white" width="100" height="18" alt="Atlassian logo" />
       </td>
     </tr>
   </table>
@@ -68,8 +67,19 @@
     <tr>
       <td><strong>Can work with:</strong></td>
       <td>
-        <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a><a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Java"></a><a href="https://en.cppreference.com/w/cpp"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1979F6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7AF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"></a><a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a><a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a><a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"></a>
-      </td>
+        <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
+<a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
+<a href="https://en.cppreference.com/w/cpp"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1979F6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7AF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"></a>
+<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"></a>
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+<a href="https://postgrest.org/"><img src="https://img.shields.io/badge/PostgREST-3178C6?style=for-the-badge&logo=postgrest&logoColor=white" alt="PostgREST"></a>
+<a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></a>
     </tr>
   </table>
 </div>
