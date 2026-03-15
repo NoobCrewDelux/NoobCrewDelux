@@ -1,4 +1,3 @@
-<img src="kurisu.jpg">
 <table align="right" valign="top" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td ><p>Socials:</p>
